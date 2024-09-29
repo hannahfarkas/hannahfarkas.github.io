@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Research"
+permalink: /projects/
+---
 
 ## Works in Progress
 
