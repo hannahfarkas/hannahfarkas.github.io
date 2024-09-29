@@ -7,14 +7,12 @@
 main:
   - title: "Research"
     url: /publications/
-
-
     
   - title: "CV"
     url: /files/Farkas_CV_web.pdf
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
 
    # - title: "Talks"
  #   url: /talks/    
