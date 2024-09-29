@@ -13,6 +13,6 @@ In my current research, I investigate how the wages and schedules of hourly work
 
 Prior to joining Columbia University, I served as a Research Assistant at the Federal Reserve Board in Washington, D.C. in the Consumer Finance Section. During my tenure there, I studied aspects of household auto loan debt, credit card debt, student loan debt, and home mortgage markets, particularly tracking the differences in characteristics of debt across subprime and prime borrower, driving my interest in studying the impacts of climate change on consumer debt and household financial wellbeing.
 
-I received my BA from Johns Hopkins University in 2017, where I graduated Phi Beta Kappa with a double major in Global Environmental Change and Sustainability and Economics. In free time, I love hiking, baking cakes, running, and exploring all of NYC's concert venues.
+I received my BA from Johns Hopkins University in 2017, where I graduated Phi Beta Kappa with a double major in Global Environmental Change and Sustainability and Economics. In my free time, I love hiking, baking cakes, running, and exploring all of NYC's many concert venues.
 
 Please reach out if you are interested in my research!
