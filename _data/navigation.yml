@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /projects/
     
   - title: "CV"
     url: /files/Farkas_CV_web.pdf
