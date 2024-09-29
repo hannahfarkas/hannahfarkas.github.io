@@ -8,7 +8,15 @@ main:
   - title: "Research"
     url: /posts/
 
- # - title: "Talks"
+
+    
+  - title: "CV"
+    url: /files/Farkas_CV_web.pdf
+    
+  #- title: "Guide"
+  #  url: /markdown/
+
+   # - title: "Talks"
  #   url: /talks/    
 
 #  - title: "Teaching"
@@ -19,9 +27,3 @@ main:
         
 #  - title: "Blog Posts"
  #   url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Farkas_CV_web.pdf
-    
-  #- title: "Guide"
-  #  url: /markdown/
