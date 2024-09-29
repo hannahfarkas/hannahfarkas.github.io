@@ -3,12 +3,8 @@ title: "Hourly Labor and Weather Volatility"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper studies the responses in hourly workers schedules and wages to fluctuations in temperature and precipitation.'
+excerpt: 'This paper studies the responses in the schedules and wages of hourly workers to fluctuations in temperature and precipitation.'
 date: 2024-09-29
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 
