@@ -24,8 +24,16 @@ All together, this paper investigates the complementarity of non-wage amenities 
 ### The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review
 With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
 
-### Disastrous Data: What Newly Digitized FEMA Records Tell us About the Political Economy of Disaster Aid
+### Bureaucracy and Political Bias: Evidence from Floods
 With Seung Min Kim
+
+<details>
+<summary><strong>Abstract</strong></summary>
+  
+We study political influence on bureaucratic processes surrounding the allocation of government resources. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county’s alignment with the president leads to a 28%p drop in the probability of bureaucrats flagging a county as requiring federal aid following a flooding event, controlling for flood intensity. This bias disappears in the most severe floods. We find evidence suggesting that such biases are driven by the share of political appointees in FEMA’s executive positions.
+</details>
+
+
 
 ### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
 With Steve Ramos
