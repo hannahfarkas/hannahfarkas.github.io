@@ -10,19 +10,10 @@ permalink: /projects/
 <details>
 <summary><strong>Abstract</strong></summary>
   
-Over half of workers in the United States are paid hourly. Many of these workers are subject to ‘just-in-time’ scheduling, with shifts assigned or cancelled at short notice, no guaranteed minimum number of hours per week, and a high level of variation in the number of hours and which days they are scheduled to work week-to-week. This study contributes to the literature by examining how changes to the minimum wage impact the schedule and income volatility of workers in service sectors, where an estimated 80% of minimum wage workers reside, and where scheduling volatility is typically at its highest. 
-
-Keeping to such unpredictable schedules impacts worker overall wellbeing, with studies showing negative ramifications for worker health, productivity, and ability to budget for expenses in a given month. Despite these consequences for worker welfare, volatility among hourly workers is understudied, with limited documentation on whether this non-wage disamenity moves in tandem with wages, serving as a complement or substitute. Economic theory would predict that in a perfectly competitive labor market, as minimum wage increases, the disamenity of unpredictable schedules and earnings would also increase in order to compensate. However, if labor markets are monopsonistic, the prediction becomes more uncertain, with past studies finding that non-wage amenities are complements to wage increases in the presence of high employer market power.
-
-Using daily payroll data from thousands of small businesses across the US, I document patterns in scheduling among hourly workers in the service industry from 2016-2022, demonstrating how this varies across employee tenure and labor market tightness. I then utilize staggered rollouts of minimum wage hikes at the state and sub-state level over this time period to show the causal relationship between increased wages and regularity of worker hours and take-home incomes. Lastly, I show the previously undocumented phenomenon of how weather shocks negatively impact the stability of worker schedules, decreasing hours worked and increasing the difference between scheduled and worked hours at extreme levels of temperature and rainfall. I then use these weather events as exogenous shocks to the amenity of a predictable work schedule, and document how this amenity changes after a rise in minimum wages. 
-
-All together, this paper investigates the complementarity of non-wage amenities of scheduling and earning stability with minimum wage increases, and is the first paper to study the implications of minimum wage policies for resilience to weather shocks in the labor market. It contributes to our understanding of the structure of hourly work, and how wage policies shape the welfare of workers on the receiving ends of such changes. 
+This study provides causal evidence of the impacts of state-level minimum wage hikes on schedule stability for hourly workers in service sectors. Using daily payroll data from thousands of small businesses in the food and retail industries across the US, I document that workers’ schedules become less predictable week-to-week and more subject to last-minute shift changes following a large increase in the minimum wage, removing 33-40\% of monetary gains from the wage increase per week. Effects are exacerbated in tight labor markets, when competition among workers is high. To illustrate why it may be cost-effective for firms to adjust along this margin, I use exogenous variation in bad weather days to demonstrate how firms shift risk of slow business days on to workers through schedule adjustments. I then demonstrate how this practice increases following a wage hike, when it is of higher cost to firms to provide stable schedules. Schedule volatility has been shown to negatively impact worker health and productivity. As such, this paper provides necessary insights into the drivers and dynamics of this understudied non-wage amenity, and illuminates how minimum wage hikes, when not paired with other worker protections, may result in welfare declines.
 
 </details>
 
-
-### The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review
-With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
 
 ### Bureaucracy and Political Bias: Evidence from Floods
 With Seung Min Kim
@@ -30,10 +21,12 @@ With Seung Min Kim
 <details>
 <summary><strong>Abstract</strong></summary>
   
-We study political influence on bureaucratic processes surrounding the allocation of government resources. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county’s alignment with the president leads to a 28%p drop in the probability of bureaucrats flagging a county as requiring federal aid following a flooding event, controlling for flood intensity. This bias disappears in the most severe floods. We find evidence suggesting that such biases are driven by the share of political appointees in FEMA’s executive positions.
+We study whether bureaucrats preemptively reflect the executive politician's preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county's alignment with the president leads to a 28 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following a flooding event, controlling for flood intensity. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.
 </details>
 
 
+### The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review
+With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
 
 ### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
 With Steve Ramos
