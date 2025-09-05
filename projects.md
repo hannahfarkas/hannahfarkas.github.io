@@ -5,7 +5,7 @@ permalink: /projects/
 
 ## Works in Progress
 
-### [Unpredictable by design? How wage policy shapes hourly work](files/unpredictable_by_design_website.pdf)
+### [Unpredictable by design? How wage policy shapes hourly work](files/Unpredictable_by_design_website.pdf)
 
 <details>
 <summary><strong>Abstract</strong></summary>
