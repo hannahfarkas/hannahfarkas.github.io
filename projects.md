@@ -3,7 +3,7 @@ title: "Research"
 permalink: /projects/
 ---
 
-## Works in Progress
+## Job Market Paper
 
 ### [Unpredictable by design? How wage policy shapes hourly work](files/Unpredictable_by_design_website.pdf)
 
@@ -15,6 +15,20 @@ This study provides causal evidence of the impacts of state-level minimum wage h
 </details>
 
 
+## Working Papers
+
+### [The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099544009102512837)
+With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+This study systematically reviews the literature that quantifies the economic benefits of weather observations and forecasts in four weather-dependent economic sectors: agriculture, energy, transport, and disaster-risk management. The review covers 175 peer-reviewed journal articles and 15 policy reports. Findings show that the literature is concentrated in high-income countries and most studies use theoretical models, followed by observational and then experimental research designs. Forecast horizons studied, meteorological variables and services, and monetization techniques vary markedly by sector. Estimated benefits even within specific subsectors span several orders of magnitude and broad uncertainty ranges. An econometric meta-analysis suggests that theoretical studies and studies in richer countries tend to report significantly larger values. Barriers that hinder value realization are identified on both the provider and user sides, with inadequate relevance, weak dissemination, and limited ability to act recurring across sectors. Policy reports rely heavily on back-of-the-envelope or recursive benefit-transfer estimates, rather than on the methods and results of the peer-reviewed literature, revealing a science-to-policy gap. These findings suggest substantial socioeconomic potential of hydrometeorological services around the world, but also knowledge gaps that require more valuation studies focusing on low- and middle-income countries, addressing provider- and user-side barriers and employing rigorous empirical valuation methods to complement and validate theoretical models.
+
+</details>
+
+## Works in Progress
+
 ### Bureaucracy and Political Bias: Evidence from Floods
 With Seung Min Kim
 
@@ -25,8 +39,7 @@ We study whether bureaucrats preemptively reflect the executive politician's pre
 </details>
 
 
-### The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review
-With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
+
 
 ### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
 With Steve Ramos
