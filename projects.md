@@ -17,6 +17,17 @@ This study provides causal evidence of the impacts of state-level minimum wage h
 
 ## Working Papers
 
+
+### [Bureaucracy and Political Bias: Evidence from Floods](https://ceep.columbia.edu/sites/ceep.columbia.edu/files/content/papers/n35.pdf)
+With Seung Min Kim
+
+<details>
+<summary><strong>Abstract</strong></summary>
+  
+We study whether bureaucrats preemptively reflect the executive politician's preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county's alignment with the president leads to a 28 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following a flooding event, controlling for flood intensity. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.
+</details>
+
+
 ### [The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099544009102512837)
 With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
 
@@ -28,18 +39,6 @@ This study systematically reviews the literature that quantifies the economic be
 </details>
 
 ## Works in Progress
-
-### Bureaucracy and Political Bias: Evidence from Floods
-With Seung Min Kim
-
-<details>
-<summary><strong>Abstract</strong></summary>
-  
-We study whether bureaucrats preemptively reflect the executive politician's preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county's alignment with the president leads to a 28 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following a flooding event, controlling for flood intensity. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.
-</details>
-
-
-
 
 ### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
 With Steve Ramos
