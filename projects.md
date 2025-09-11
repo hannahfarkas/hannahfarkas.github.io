@@ -42,3 +42,6 @@ This study systematically reviews the literature that quantifies the economic be
 
 ### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
 With Steve Ramos
+
+### Hourly Work and Wildfire Smoke
+with Clara Berestycki
