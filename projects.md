@@ -6,7 +6,6 @@ permalink: /projects/
 ## Job Market Paper
 
 ### [Unpredictable by design? How wage policy shapes hourly work](files/Unpredictable_by_design_website.pdf)
-
 <details>
 <summary><strong>Abstract</strong></summary>
   
@@ -20,7 +19,6 @@ This study provides causal evidence of the impacts of state-level minimum wage h
 
 ### [Bureaucracy and Political Bias: Evidence from Floods](https://ceep.columbia.edu/sites/ceep.columbia.edu/files/content/papers/n35.pdf)
 With Seung Min Kim
-
 <details>
 <summary><strong>Abstract</strong></summary>
   
@@ -30,7 +28,6 @@ We study whether bureaucrats preemptively reflect the executive politician's pre
 
 ### [The Economic Value of Weather Forecasts: A Quantitative Systematic Literature Review](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099544009102512837)
 With Manuel Linsenmeier, Marta Talevi, Paolo Avner, Bramka Arga Jafino, and Moussa Sidibe
-
 <details>
 <summary><strong>Abstract</strong></summary>
 
