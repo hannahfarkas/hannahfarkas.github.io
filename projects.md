@@ -17,7 +17,7 @@ Workers in hourly service jobs experience shift cancellations, schedule adjustme
 ## Working Papers
 
 
-### [Bureaucracy and Political Bias: Evidence from Floods](https://ceep.columbia.edu/sites/ceep.columbia.edu/files/content/papers/n35.pdf)
+### [Bureaucracy and Political Bias: Evidence from Floods](files/FEMAPoliticalBias_CEEP.pdf)
 With Seung Min Kim
 <details>
 <summary><strong>Abstract</strong></summary>
