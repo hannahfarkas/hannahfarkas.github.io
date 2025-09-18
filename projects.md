@@ -22,7 +22,7 @@ With Seung Min Kim
 <details>
 <summary><strong>Abstract</strong></summary>
   
-We study whether bureaucrats preemptively reflect the executive politician's preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county's alignment with the president leads to a 28 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following a flooding event, controlling for flood intensity. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.
+We study whether bureaucrats preemptively reflect the executive politician's preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county's alignment with the president leads to a 4 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following an average-sized flooding event. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.
 </details>
 
 
