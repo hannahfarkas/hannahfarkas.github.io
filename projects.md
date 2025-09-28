@@ -37,8 +37,19 @@ This study systematically reviews the literature that quantifies the economic be
 
 ## Works in Progress
 
-### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
-With Steve Ramos
-
 ### Hourly Work and Wildfire Smoke
 with Clara Berestycki
+<details>
+<summary><strong>Abstract</strong></summary>
+  
+We examine how hourly workers in service industries respond to the presence of wildfire smoke. While in other sectors of the economy, employees may be able to work from home or take time off under the presence of such hazards, the schedules and hours worked are typically much less flexible for service workers. We find that hours worked decline on days with wildfire smoke present, but only when wildfire smoke is already past levels considered harmful for human health. This differs from previous work showing that people stay home when there is any level of wildfire smoke present. This highlights issues of environmental justice in who is able to stay home as an adaptive measure on a day with high pollution levels.
+</details>
+
+
+### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
+With Steve Ramos
+<details>
+<summary><strong>Abstract</strong></summary>
+In California, the delivery of water is handled through nearly 3,000 different utilities, some private and some public, each facing different regulations and charging consumers according to different pricing schemes. These water utilities supply water from different sources (e.g., local vs. imported, groundwater vs. surface water) and are not tied to municipal boundaries.  Meanwhile, as the demand for water continues to climb in California, water supply is projected to decrease due to climate change-related stressors, leading utilities to increase rates or impose surcharges to recuperate costs. This perfect storm threatens a household’s ability to access clean water while maintaining their financial well-being. In fact, a recent survey from the California Water Board estimates that roughly 1.6 million households, or 12% of households in the state, hold $1 billion in water utility debt. On average, these households owe $500 each, but around 150,000 households owe over $1,000. Motivated by these facts, we leverage a difference-in-differences research design to examine the causal effects of utility surcharges on household finance. To accomplish this, we utilize the Consumer Credit Panel, a dataset with information on credit usage, credit score, and delinquency for all households with a credit history in California. We examine how changes in water bills impact such household financial outcomes. This empirical approach allows us to determine the relationship between water utility bills and financial wellbeing, while shedding light on how drought surcharges impact households unequally.
+</details>
+
