@@ -9,7 +9,21 @@ permalink: /projects/
 <details>
 <summary><strong>Abstract</strong></summary>
   
-Workers in hourly service jobs experience shift cancellations, schedule adjustments, and unpredictable hours, often referred to as 'just-in-time' scheduling. Despite imposing significant costs on workers, little is known about the tradeoff between wages and schedule stability. I leverage the fact that most hourly service workers earn at or near the minimum wage to examine this question. Using daily administrative data from thousands of small businesses in the food and retail sectors across the US, I examine how large increases to state-level minimum wages impact the volatility of hourly workers' schedules. Following exogenous wage increases, schedule inaccuracy increases by roughly 45 minutes per week and the overall similarity of week-to-week schedules decreases by 20\%. I utilize the granularity of the data to construct a machine learning model and demonstrate that the deviation of predicted hours increases substantially with the onset of a minimum wage. I utilize extreme weather days as shocks to consumer demand to demonstrate how schedules also become more responsive to a slow business day following the hike. This increase in volatility results in overall costs imposed on workers equivalent to 10-22\% of the monetary gains from the wage increase per week.
+Workers in hourly service jobs experience shift cancellations, schedule adjustments, and
+unpredictable hours, often referred to as ‘just-in-time’ scheduling. Despite imposing significant
+costs on workers, data limitations have made studying such patterns challenging. I leverage a
+large administrative dataset featuring information on employees’ scheduled and worked hours
+to illustrate patterns of schedule unpredictability at thousands of small food and drink and
+retail businesses across the U.S. I validate these measures and illustrate how risks to business
+operations are passed off onto workers through the channel of unpredictable scheduling using
+exogenous and observable weather shocks. I demonstrate that baseline schedule unpredictabil-
+ity is widespread, and that schedules are highly responsive to such outside shocks. A machine
+learning model fails to accurately predict a worker’s schedule even with information on past
+schedules and inaccuracies. I then utilize the fact that most hourly service workers earn at
+or near the minimum wage to demonstrate the tradeoff between schedule predictability and
+wages. Following exogenous wage increases, schedule unpredictability increases by 20% per
+week, schedules become even more responsive to weather shocks, and the algorithm
+becomes worse at predicting day-ahead schedules.
 
 </details>
 
