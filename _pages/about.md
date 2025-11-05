@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a 6th-year PhD candidate in the [Sustainable Development program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University's School of International and Public Affairs and Climate School. I am an environmental and labor economist with research interests lying at the intersection of extreme weather adaptation and labor and household credit markets. **I will be on the 2025-2026 job market.**
+Welcome to my website! I am a 6th-year PhD candidate in the [Sustainable Development program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University's School of International and Public Affairs and Climate School. My fields are environmental economics and labor economics and my research interests lie at the intersection of extreme weather adaptation and labor and household credit markets. **I am on the 2025-2026 job market.**
 
 In my current research, I investigate how the wages and schedules of hourly workers respond to minimum wage laws and to extreme temperature and precipitation, how credit scores and financial wellbeing are impacted by water utility bills in drought-burdened areas of California, and the political processes behind the systems through which we allocate aid to households in financial distress following natural disasters.
 
