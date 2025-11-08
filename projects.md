@@ -9,22 +9,7 @@ permalink: /projects/
 <details>
 <summary><strong>Abstract</strong></summary>
   
-Workers in hourly service jobs frequently experience shift cancellations, schedule adjust-
-ments, and unpredictable hours, often referred to as ‘just-in-time’ scheduling. Despite impos-
-ing significant costs on workers, data limitations have made studying such patterns challeng-
-ing. I use a large administrative dataset featuring information on nearly 1 million employees’
-scheduled and worked hours to illustrate patterns of schedule unpredictability at thousands of
-small food and drink and retail businesses across the U.S. I demonstrate that baseline schedule
-unpredictability is widespread, the most severe for the lowest-wage and least-tenured workers,
-and that a machine learning model trained on past schedules and deviations cannot capture
-all unpredictability. Using exogenous weather shocks, which are known to diminish consumer
-demand, I illustrate how these customer-facing establishments pass risk of slow business days
-onto workers through the channel of unpredictable scheduling. I then leverage the fact that
-most hourly service workers earn at or near the minimum wage to demonstrate the tradeoff
-between schedule predictability and wages. Following large exogenous minimum wage in-
-creases, schedule unpredictability increases by 20% per week and schedules become even more
-responsive to weather shocks. This highlights how some of the welfare gains workers realize
-from a minimum wage may be offset by increased schedule unpredictability.
+Workers in hourly service jobs frequently experience shift cancellations, schedule adjustments, and unpredictable hours, often referred to as `just-in-time' scheduling. Despite imposing significant costs on workers, we know surprisingly little about the prevalence and costs of this practice. I use a large administrative dataset featuring information on nearly 1 million employees' scheduled and worked hours to first illustrate patterns of schedule unpredictability at thousands of small food and drink and retail businesses across the U.S. I show that baseline schedule unpredictability is widespread, and is the most severe for the lowest-wage and least-tenured workers. Using exogenous weather shocks, which are known to diminish consumer demand, I examine how these customer-facing establishments pass risk of slow business days onto workers through unpredictable scheduling. I then leverage the fact that most hourly service workers earn at or near the minimum wage to examine the tradeoff between schedule predictability and wages. Following large exogenous minimum wage increases, schedule unpredictability increases by 20% per week and schedules become even more responsive to weather shocks. This highlights how some of the welfare gains workers realize from a minimum wage may be offset by increased schedule unpredictability.
 
 </details>
 
