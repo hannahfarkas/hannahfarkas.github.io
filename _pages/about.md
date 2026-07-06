@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website! I am a Postdoctoral Scholar at the Nicholas School of the Environment at Duke University. **In summer 2027, I will join McMaster University as an Assistant Professor in the Department of Economics.** My fields are labor economics and environmental economics.
 
-I completed my PhD in 2026 in the [Sustainable Development program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University's School of International and Public Affairs and Climate School. 
+I completed my PhD in 2026 in [Sustainable Development](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University's School of International and Public Affairs. 
 
 In my [job market paper](https://hannahfarkas.github.io/files/The_Economic_Incidence_of_Schedule_Unpredictability.pdf), I investigate the schedule unpredictability of hourly workers in service sectors, and how this responds to minimum wage laws and extreme weather. 
 
