@@ -5,7 +5,7 @@ permalink: /projects/
 
 ## Job Market Paper
 
-### The Economic Incidence of Schedule Unpredictability in Hourly Work
+### [The Economic Incidence of Schedule Unpredictability in Hourly Work](https://hannahfarkas.github.io/files/The_Economic_Incidence_of_Schedule_Unpredictability.pdf)
 <details>
 <summary><strong>Abstract</strong></summary>
   
